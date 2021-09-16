@@ -2,6 +2,7 @@
 Sparks Foundation Web Development Internship Project : Basic Banking System website. 
 A website designed to transfer money by recipeint email from the the record of customers below easily 
 The web application contains two html pages viz 
+
 1] INDEX - This page is a welcoming page for the user provided a button to ged started .
 2] CUSTOMERS -This page contains the data of customers , sending money and viewing transactions history fields.
 
